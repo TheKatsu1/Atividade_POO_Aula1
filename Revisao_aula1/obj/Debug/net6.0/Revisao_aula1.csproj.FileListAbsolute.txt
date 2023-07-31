@@ -1,0 +1,15 @@
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\bin\Debug\net6.0\Revisao_aula1.exe
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\bin\Debug\net6.0\Revisao_aula1.deps.json
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\bin\Debug\net6.0\Revisao_aula1.runtimeconfig.json
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\bin\Debug\net6.0\Revisao_aula1.dll
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\bin\Debug\net6.0\Revisao_aula1.pdb
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.csproj.AssemblyReference.cache
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.AssemblyInfoInputs.cache
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.AssemblyInfo.cs
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.csproj.CoreCompileInputs.cache
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.dll
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\refint\Revisao_aula1.dll
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.pdb
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\Revisao_aula1.genruntimeconfig.cache
+C:\Users\202110687\source\repos\Revisao_aula1\Revisao_aula1\obj\Debug\net6.0\ref\Revisao_aula1.dll
